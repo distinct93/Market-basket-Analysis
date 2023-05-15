@@ -1,4 +1,4 @@
-#Project description
+##Project description
 
 Market basket analysis carried out on an e-commerce dataset of orders made at an olist store using the apriori algorithm 
 to find associations of products bought together in the same transaction.
